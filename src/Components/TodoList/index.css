@@ -1,0 +1,16 @@
+.plans{
+    color: rgb(182, 241, 185);
+    font-family: "Roboto";
+    font-weight: 500;
+    
+}
+.item-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    border-radius: 5px;
+    border-width: 0px;
+    
+}

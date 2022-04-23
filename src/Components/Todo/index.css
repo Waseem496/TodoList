@@ -1,0 +1,28 @@
+.todo-item{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    height: 30px;
+    width: 400px;
+    background-color: cornsilk;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+.text{
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: bold;
+    list-style: none;
+}
+.del-button{
+    height: 20px;
+    width: 70px;
+    background-color: black;
+    color: blanchedalmond;
+    border-width: 0px;
+    border-radius: 15px;
+    
+}
